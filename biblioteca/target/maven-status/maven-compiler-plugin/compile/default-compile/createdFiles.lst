@@ -1,0 +1,16 @@
+biblioteca\com\Classes\emprestimo.class
+biblioteca\com\Excecoes\RepositorioVazio.class
+biblioteca\com\repositorios\autorepositorio.class
+biblioteca\com\repositorios\livrosrepositorio.class
+biblioteca\com\Services\bibliotecaservice.class
+biblioteca\com\Main.class
+biblioteca\com\Excecoes\naocadastradoException.class
+biblioteca\com\Interfaces\crudrepositorio.class
+biblioteca\com\Classes\autor.class
+biblioteca\com\Excecoes\JacadastradoException.class
+biblioteca\com\Interfaces\indentificar.class
+biblioteca\com\repositorios\usuariorepositorio.class
+biblioteca\com\repositorios\emprestimorepositorio.class
+biblioteca\com\repositorios\repositorio.class
+biblioteca\com\Classes\livro.class
+biblioteca\com\Classes\usuario.class
